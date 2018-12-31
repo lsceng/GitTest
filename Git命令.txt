@@ -6,7 +6,7 @@ git  add -A                                                                     
 git commit -m "更新的信息"                                                               提交
 git log                                                                                               查看日志
 git diff                                                                                              查看改变
-git checkout --                                                                                  撤销更改
+git checkout --  <文件名>                                                                  撤销更改
 git reset --hard 版本号前7位                                                               版本回退
 git reflog                                                                                           查看之前版本
 
