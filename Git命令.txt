@@ -1,12 +1,14 @@
-输入git init                                                                                              初始化仓库
-输入git status                                                                                          查看状态
-输入git config --global core.quotepath false                                            解决中文文件的名称乱码
-
-
-
-
-
-
+git init                                                                                              初始化仓库
+git status                                                                                          查看状态
+git config --global core.quotepath false                                            解决中文文件的名称乱码
+git add "测试文本.txt"                                                                        上传此文件
+git  add -A                                                                                        上传此目录下所有文件
+git commit -m "更新的信息"                                                               提交
+git log                                                                                               查看日志
+git diff                                                                                              查看改变
+git checkout --                                                                                  撤销更改
+git reset --hard 版本号前7位                                                               版本回退
+git reflog                                                                                           查看之前版本
 
 
 
