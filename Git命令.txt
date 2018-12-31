@@ -1,0 +1,19 @@
+输入git init                                                                                              初始化仓库
+输入git status                                                                                          查看状态
+输入git config --global core.quotepath false                                            解决中文文件的名称乱码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
