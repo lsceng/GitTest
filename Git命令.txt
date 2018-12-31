@@ -9,8 +9,8 @@ git diff                                                                        
 git checkout --  <文件名>                                                                  撤销更改
 git reset --hard 版本号前7位                                                               版本回退
 git reflog                                                                                           查看之前版本
-
-
+git clean -xf                                                                                      删除未跟踪的文件
+git push                                                                                            上传到Github
 
 
 
